@@ -1,7 +1,7 @@
 name-template: 'release-v$NEXT_PATCH_VERSION'
 tag-template: 'release-v$NEXT_PATCH_VERSION'
 categories:
-  - title: 'Features'
+  - title: 'Features_test'
     labels:
       - 'feature'
       - 'enhancement'
